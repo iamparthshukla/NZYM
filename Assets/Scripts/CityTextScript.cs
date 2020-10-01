@@ -1,4 +1,4 @@
-//this cript utilises textMeshPro library of Unity3D to interact with the applicaiton and publish user location using weather.io API
+//this script utilises textMeshPro library of Unity3D to interact with the applicaiton and publish user location using weather.io API
 
 using System.Collections;
 using System.Collections.Generic;
