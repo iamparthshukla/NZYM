@@ -1,4 +1,7 @@
-﻿using System.Collections;
+//this is a debugging file
+//this script ensures user to understand that the GetGPS script and GetAQI script function accordingly
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
