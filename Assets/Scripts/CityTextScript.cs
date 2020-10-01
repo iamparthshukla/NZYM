@@ -1,4 +1,5 @@
 //this script utilises textMeshPro library of Unity3D to interact with the applicaiton and publish user location using weather.io API
+//CityText.script utilised weatherbit.io API, and would therefore require the same on the website weatherbit.io
 
 using System.Collections;
 using System.Collections.Generic;
