@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//this script uses TextMeshPro library of Unity3D to render the required AQI information on the home screen of the application
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
