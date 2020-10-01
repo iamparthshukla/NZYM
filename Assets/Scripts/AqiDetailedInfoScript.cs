@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//this script utilizes textMeshPro library of Unity 3d to print the API information stored from getAQI script
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
