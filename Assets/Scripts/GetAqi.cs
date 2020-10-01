@@ -1,4 +1,6 @@
-﻿using System;
+//GetAQI Script interacts with the API to get the desired information
+//please add your own API key from weatherbit.io
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -22,7 +24,7 @@ public class GetAqi : MonoBehaviour
     public static double pm25Dat;
 
     private readonly string baseWeatherbitURL = "https://api.weatherbit.io/v2.0/current/airquality?";
-    private readonly string key = "92e5a95ad9d44bc9bf44f61dd676a56e";
+    private readonly string key = "insert_API_key";
 
     Coroutine current;
     
