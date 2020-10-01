@@ -16,3 +16,7 @@ The link for the google play application can be found at: https://play.google.co
 Minimum API 29 required
 
 To run, you will need a [weatherbit.io API](https://www.weatherbit.io/api/airquality-current) key.
+
+Required documentation for the repository are:
+1. A new CONTRIBUTE.MD document
+2. A new REQUIREMENTS.MD document
