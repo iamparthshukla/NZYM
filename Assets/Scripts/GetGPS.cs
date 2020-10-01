@@ -1,4 +1,6 @@
-﻿using System.Collections;
+//this script allows user to access Unity's REST APIs to access user location
+//requirements: location permissions are enabled
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Android;
