@@ -1,4 +1,5 @@
-//this script utilizes textMeshPro library of Unity 3d to print the API information stored from getAQI script
+// This script pertains to GUI card of the application. 
+// This script requires TextMeshPro binary to Unity 3d.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
