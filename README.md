@@ -1,5 +1,5 @@
 # NZYM
-NZYM is an augmented reality based AQI monitoring application that allows you to simulate Air Particles in real time.
+NZYM is an augmented reality based AQI visualising application that allows you to simulate Air Particles in real time. NZYM application uses REST API to interact with third party APIs by accessing user location in real time.
 
 NZYM Uses Unity 3D for development of the application and has used the Particle System to recreate data for the following particles:
 
