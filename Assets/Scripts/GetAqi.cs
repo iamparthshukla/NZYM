@@ -24,7 +24,7 @@ public class GetAqi : MonoBehaviour
     public static double pm25Dat;
 
     private readonly string baseWeatherbitURL = "https://api.weatherbit.io/v2.0/current/airquality?";
-    private readonly string key = "insert_API_key";
+    private readonly string key = "insert_API_key";    //The user is requested to add a personal Weatherbit.io API from their website.
 
     Coroutine current;
     
