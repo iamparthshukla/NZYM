@@ -1,5 +1,5 @@
-//this is a debugging file
-//this script ensures user to understand that the GetGPS script and GetAQI script function accordingly
+//This debugging file helps users to understand that GetAQI.cs and GetGPS.cs are working correctly.
+//This file utilises TextMeshPro binary from Unity 3d.
 
 using System.Collections;
 using System.Collections.Generic;
